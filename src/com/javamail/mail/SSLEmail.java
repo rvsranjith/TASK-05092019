@@ -15,9 +15,9 @@ public class SSLEmail {
 	   Port for SSL: 465
 	 */
 	public static void main(String[] args) {
-		final String fromEmail = "pankaj@google.com";
+		final String fromEmail = "ranjith@google.com";
 		final String password = "my_pwd";
-		final String toEmail = "pkumar@google.com";
+		final String toEmail = "e-giants@google.com";
 		
 		System.out.println("SSLEmail Start");
 		Properties props = new Properties();
